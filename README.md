@@ -1,16 +1,20 @@
-## Hi there 👋
+# TiViX90 — APK Releases
 
-<!--
-**tivix90/tivix90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official APK distribution repository for **TiViX90**, an independent video player designed for ultrawide Android head units.
 
-Here are some ideas to get you started:
+TiViX90 supports online TV playback, channel browsing, video scaling, playback quality selection, and selected Proton head unit integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Compatibility**
+- Screen target: Ultrawide landscape
+- Primary target: Android 9
+- Optimized for Proton X90 head units
+
+## Download
+
+Download the latest signed APK from the [Releases](https://github.com/tivix90/tivix90/releases) section.
+
+## Disclaimer
+
+TiViX90 is an independent, unofficial personal project developed for the community. It is not affiliated with or endorsed by PROTON.
+
+TiViX90 is provided free of charge and is developed solely for non-commercial purposes.
