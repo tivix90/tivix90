@@ -9,6 +9,10 @@ TiViX90 supports online TV playback, channel browsing, video scaling, playback q
 - Primary target: Android 9
 - Optimized for Proton X90 head units
 
+## Website
+
+Official website: https://tivix90.pages.dev/
+
 ## Download
 
 Download the latest signed APK from the [Releases](https://github.com/tivix90/tivix90/releases) section.
