@@ -1,0 +1,3 @@
+versionCode=108
+versionName=0.3-beta56
+downloadUrl=https://github.com/tivix90/tivix90/releases/download/v0.3-beta56/tivix90_v0.3-beta56.apk
